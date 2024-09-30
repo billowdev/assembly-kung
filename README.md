@@ -16,3 +16,5 @@ Linker(standard linker used in Unix-like operating systems):
 ld -m elf_i386 akkarapon.o -o akkarapon
 ```
 
+
+
